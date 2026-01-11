@@ -1,6 +1,6 @@
 # College Helpdesk Rule-Based Chatbot
 # AI Internship - Week 1
-# Created by: Your Name
+# Created by: Vaishnavi Rajput
 
 import re
 import random
